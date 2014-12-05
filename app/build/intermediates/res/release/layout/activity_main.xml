@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".Main">
+
+    <FrameLayout
+        android:id="@+id/board_list_frag"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+    </FrameLayout>
+
+</RelativeLayout>
+<!-- From: file:/home/weava/Projects/chandroid_app/app/src/main/res/layout/activity_main.xml -->

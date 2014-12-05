@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_color">#2196F3</color>
+    <color name="action_bar_color_dark">#1E88E5</color>
+    <color name="nav_bar_color">#000000</color>
+    <color name="black">#000000</color>
+</resources>
