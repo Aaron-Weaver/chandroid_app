@@ -1,6 +1,13 @@
 Chandroid
 ============
 
+##Update
+I will not be finishing this application due to personal reasons.
+
+If anyone wishes to continue from where I left off, feel free to fork this repo and work on the app.
+
+=============
+
 Android application to read and post on 4Chan.
 
 This application uses the 4Chan API to retrieve JSON information on the various elements of 4Chan.
